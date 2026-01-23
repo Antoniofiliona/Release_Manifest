@@ -24,12 +24,6 @@ Example:
 | `cp_version.txt` | Cathodic Protection Rectifier Readings |
 | `air_to_soil_version.txt` | Air to Soil |
 
-## Usage
-
-VBA applications check this repository for version updates:
-```
-https://raw.githubusercontent.com/Antoniofiliona/Release_Manifest/main/<project>_version.txt
-```
 
 ## Deployment
 
